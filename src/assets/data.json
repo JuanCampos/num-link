@@ -1,0 +1,502 @@
+[
+    {
+        "phone": 5491167070753,
+        "category": "fer",
+        "status": "fers"
+    },
+    {
+        "phone": 5491144957089,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491160464317,
+        "category": "tienda de ropa",
+        "status": ""
+    },
+    {
+        "phone": 5491132076473,
+        "category": "tienda de ropa",
+        "status": ""
+    },
+    {
+        "phone": 5491125572188,
+        "category": "tienda de ropa",
+        "status": ""
+    },
+    {
+        "phone": 5491138054542,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491151085190,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491162205319,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491127838713,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491130529168,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491140369734,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491162522431,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491131546959,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491126853565,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491127992031,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491165477132,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491135674698,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491136035835,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491168924568,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491162893274,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491159089292,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491132470401,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491138104980,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491127796576,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491157531065,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491171124152,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491131448040,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491162466214,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491159510165,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491132111840,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491150461515,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491157207643,
+        "category": "gimnasio",
+        "status": ""
+    },
+    {
+        "phone": 5491136696127,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491166113348,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491161310941,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491162318744,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491125505371,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491168206533,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491144792723,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491141843334,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491124016944,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491131853232,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491161236647,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491168671344,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491133951383,
+        "category": "cervecería",
+        "status": ""
+    },
+    {
+        "phone": 5491132016469,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491158486888,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491158133355,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491134838324,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491134258849,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491127756613,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491147901677,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": "sottilerestaurante",
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": "california_dreaming_bodegon",
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": "lisandrorestaurante",
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491153491779,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491159747769,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491135877130,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": "elviejotorino",
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491166167318,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491131063130,
+        "category": "",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491166219424,
+        "category": "",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491131713215,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491146710425,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491139255613,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491173693615,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491164574102,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491130896224,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491124036946,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": 5491146328139,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491149232365,
+        "category": "restaurant",
+        "status": "NO EXISTE"
+    },
+    {
+        "phone": 5491158043147,
+        "category": "restaurant",
+        "status": ""
+    },
+    {
+        "phone": "toston.cafe",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "cortez.panaderia.confiteria",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491126170174,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "salvecafe",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "vitocafeteria",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "juaniscafeteria",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491168321720,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491130120120,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "#ERROR!",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491140657531,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "liriocafeok",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491170632563,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491151258195,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491155023289,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491168145011,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "hope.maisondupain",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491154614562,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5492216557584,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491151495749,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491126849950,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491124667491,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491162855217,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": "brothersbuenosaires",
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491130676080,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491134823989,
+        "category": "",
+        "status": ""
+    },
+    {
+        "phone": 5491126688679,
+        "category": "",
+        "status": ""
+    },
+    {
+        "phone": 5491173617372,
+        "category": "café",
+        "status": ""
+    },
+    {
+        "phone": 5491158636171,
+        "category": "café",
+        "status": ""
+    }
+]
